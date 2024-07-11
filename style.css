@@ -1,0 +1,41 @@
+
+.container{
+    background-color: rgb(131, 200, 62);
+    height:370px;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    padding: 15px;
+}
+h3{
+    color: rgb(173, 170, 170);
+}
+.cl1{
+    background-color: rgb(0, 174, 255);
+    border-radius: 10px;
+    margin-left: 10px;
+    color: white;
+}
+.cl2{
+    background-color: red;
+    border-radius: 10px;
+    margin-left: 10px;
+    color: white;
+}
+.cl3{
+    background-color: rgb(97, 157, 8);
+    border-radius: 10px;
+    margin-left: 10px;
+    color: white;
+}
+.section{
+    background-color: white;
+    height: 300px;
+    padding: 15px;
+    border-radius: 10px;
+
+}
+.abc{
+    background-color: rgb(158, 156, 156);
+}
